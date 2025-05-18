@@ -9,7 +9,7 @@ Big fan of all things ads, analytics, and optimization – especially when it co
 
 🌱 Always learning something new (usually related to data... or food).
 
-🎯 Currently working toward landing a data role at Google or Amazon – where data meets innovation.
+🎯 Currently working toward landing a role where data meets innovation.
 
 📍Here for side projects, experiments, and maybe a few messy-but-fun notebooks.
 <!---
