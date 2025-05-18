@@ -5,7 +5,7 @@ Right now, I work at a marketing research firm, modeling media performance and h
 
 Big fan of all things ads, analytics, and optimization – especially when it comes to Google Ads, Amazon Ads, and YouTube campaigns.
 
-🛠️ Languages & Tools I use a lot: Python, R, SQL, Excel, Tableau, Power BI, Unify Analytics
+🛠️ Languages & Tools I use a lot: Python, R, SQL, Excel, Tableau, Power BI
 
 🌱 Always learning something new (usually related to data... or food).
 
